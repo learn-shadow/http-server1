@@ -1,0 +1,21 @@
+{
+    "connection_type" : {
+        "ipv4_connection" : 2,
+        "ipv6_connection" : 10
+    },
+
+    "protocol_type" : {
+        "tcp_protocol" : 0,
+        "udp_protocol" : 1
+    },
+
+    "stream_type" : {
+        "sock_stream" : 1,
+        "sock_drgam" : 2
+    },
+
+    "machine_data" : {
+        "available_port" : 5000,
+        "host_address" : [127, 0, 0, 1]
+    }
+}
